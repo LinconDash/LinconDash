@@ -17,6 +17,7 @@
 ###
 
 <h3 align="left">Core Skills</h3>
+<hr>
 
 ###
 
@@ -25,6 +26,7 @@
 ###
 
 <h3 align="left">Programming Languages</h3>
+<hr>
 
 ###
 
@@ -55,6 +57,7 @@
 ###
 
 <h3 align="left">Frameworks</h3>
+<hr>
 
 ###
 
@@ -95,6 +98,7 @@
 ###
 
 <h3 align="left">Tools and platforms</h3>
+<hr>
 
 ###
 
@@ -153,6 +157,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<hr>
 
 ###
 
@@ -169,23 +174,33 @@
 ###
 
 <h3 align="left">Lets connect !!</h3>
+<hr>
 
 ###
 
 <div align="left">
+  <a href="https://leetcode.com/u/datalinx/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logoColor=black" height="30" alt="leetcode logo"  />
+    <img width="5" />
+  </a>
   <a href="www.linkedin.com/in/lincon-dash-21441b210" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+    <img width="5" />
   </a>
   <a href="https://www.hackerrank.com/profile/lincondash02" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="25" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="30" alt="hackerrank logo"  />
+    <img width="5" />
   </a>
   <a href="mailto:lincondash02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+    <img width="5" />
   </a>
-  <a href="https://medium.com/@lincondash02" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="25" alt="medium logo"  />
+  <a href="https://medium.com/@lincondash02" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="30" alt="medium logo"  />
+    <img width="5" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="25" alt="linktree logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="30" alt="linktree logo"  />
+  <img width="5" />
 </div>
 
 ###
