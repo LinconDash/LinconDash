@@ -183,7 +183,7 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logoColor=black" height="30" alt="leetcode logo"  />
     <img width="5" />
   </a>
-  <a href="www.linkedin.com/in/lincon-dash" target="_blank">
+  <a href="https://www.linkedin.com/in/lincon-dash" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
     <img width="5" />
   </a>
