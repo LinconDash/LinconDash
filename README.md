@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- Excel<br>- SQL <br>- Data collection<br>- Data Viz. using BI tools<br>- Exploratory Data analysis <br>- Data preprocessing<br>- Machine learning <br>- Deep learning<br>- Natural language Processing <br>- Model Deployment <br>- Model Optimizing and Fine-tuning<br>- Web scraping or Web crawling<br>- Object Oriented Programming<br>- Other skills such as Version Control, Bash scripting, Cloud skills, etc.</p>
+<p align="left">- Excel<br>- SQL <br>- Data collection<br>- Data Viz. using BI tools<br>- Exploratory Data analysis <br>- Data preprocessing<br>- Data Modelling<br>- Machine learning <br>- Deep learning<br>- Natural language Processing <br>- Model Deployment <br>- Model Optimizing and Fine-tuning<br>- Web scraping or Web crawling<br>- Object Oriented Programming<br>- Other skills such as Version Control, Bash scripting, Cloud skills, etc.</p>
 
 ###
 
