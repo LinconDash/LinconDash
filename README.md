@@ -178,12 +178,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=LinconDash&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <h3 align="left">Lets connect !!</h3>
 <hr>
 
@@ -210,8 +204,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="30" alt="medium logo"  />
     <img width="5" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="30" alt="linktree logo"  />
-  <img width="5" />
 </div>
 
 ###
