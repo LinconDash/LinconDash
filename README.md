@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LinconDash.LinconDash&left_text=Visitors"  />
+</div>
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
 </div>
 
@@ -163,17 +167,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">Github Stats :</h3>
-<hr>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LinconDash.LinconDash&left_text=Visitors"  />
 </div>
 
 ###
